@@ -1,8 +1,8 @@
-# Ablaze Lilith
+# Ablaze
 
 ![Ablaze banner](https://i.imgur.com/XgYOuCd.png)
 
-An enthusiastic full stack developer.
+Front end web developer
 
 <!-- ### Web application interfaces
 
@@ -10,7 +10,7 @@ An enthusiastic full stack developer.
 
 ![App Screenshot](https://i.imgur.com/4o58azh.png) -->
 
-### Profile
+### Developer profile
 
 ![Ablaze logo](https://i.imgur.com/mDW4OMi.png)
 
