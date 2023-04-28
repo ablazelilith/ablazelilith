@@ -14,4 +14,4 @@ Full stack web developer
 
 ![Ablaze developer icon](https://i.imgur.com/1BKScwn.png)
 
-Ablaze [@ablazelilith](https://twitter.com/ablazelilith)
+Ablaze Lilith [@ablazelilith](https://twitter.com/ablazelilith)
