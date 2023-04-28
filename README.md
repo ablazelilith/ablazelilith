@@ -2,7 +2,7 @@
 
 ![Ablaze banner](https://i.imgur.com/XgYOuCd.png)
 
-Front end web developer
+Full stack web developer
 
 <!-- ### Web application interfaces
 
