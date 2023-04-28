@@ -12,6 +12,6 @@ Full stack web developer
 
 ### Developer profile
 
-![Ablaze logo](https://i.imgur.com/mDW4OMi.png)
+![Ablaze developer icon](https://i.imgur.com/1BKScwn.png)
 
 Ablaze [@ablazelilith](https://twitter.com/ablazelilith)
