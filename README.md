@@ -1,6 +1,6 @@
 # Ablaze
 
-![Ablaze banner](https://i.imgur.com/kbUNJ31.png)
+![Ablaze banner](https://i.imgur.com/JsuvxbT.png)
 
 Full stack web developer
 
