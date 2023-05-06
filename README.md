@@ -10,7 +10,7 @@ Full stack web developer
 
 ![App Screenshot](https://i.imgur.com/4o58azh.png) -->
 
-### Developer profile
+### Developer
 
 ![Ablaze developer icon](https://i.imgur.com/lfqB9FR.png)
 
